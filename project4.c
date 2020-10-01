@@ -45,25 +45,25 @@ int main(){
     switch (choice)
     {
     case 1:
-        
+        Students();
         break;
     case 2:
-        
+        Trainer();
         break;
     case 3:
-        
+        TrainerLead();
         break;
     case 4:
-        
+        ProjectManager();
         break;
     case 5:
-        
+        ProjectHead();
         break; 
     case 6:
-        
+        Director();
         break;
     case 7:
-        
+        ProVC();
         break;
     
     default:
