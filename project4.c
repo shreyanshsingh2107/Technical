@@ -1,36 +1,28 @@
 #include<stdio.h>
 #include<stdio.h>
 
-int  Students(){
+void details(filename){
+    FILE *fp;
+    char ch;
+    fp = fopen(filename, "r");
+    if (fp == NULL) {
+        printf("INVALID \n", filename);
+    } else {
+        printf("%s: opened in read mode.\n\n", filename);
+    }
+    while ((ch = fgetc(fp) )!= EOF) {
+        printf ("%c", ch);
+    }
+    if (!fclose(fp))
+        printf("\n%s: closed.\n", filename);
 
 }
 
-int  Trainer(){
 
-}
-
-int  TrainerLead(){
-
-}
-
-int  ProjectManager(){
-
-}
-
-int  ProjectHead(){
-
-}
-
-int  Director(){
-
-}
-
-int  ProVC(){
-
-}
 
 int main(){
-    int choice, num; 
+    int choice;
+    const char *filename;
     printf("Press 1 to Check Students\n"); 
     printf("Press 2 to Check Trainer\n");
     printf("Press 3 to Check TrainerLead\n");
@@ -45,31 +37,29 @@ int main(){
     switch (choice)
     {
     case 1:
-        Students();
+        filename = "files/Students.txt";
         break;
     case 2:
-        Trainer();
+        filename = "files/Trainer.txt";
         break;
     case 3:
-        TrainerLead();
+        filename = "files/TrainerLead.txt";
         break;
     case 4:
-        ProjectManager();
+        filename = "files/ProjectManager.txt";
         break;
     case 5:
-        ProjectHead();
+        filename = "files/ProjectHead.txt";
         break; 
     case 6:
-        Director();
+        filename = "files/Director.txt";
         break;
     case 7:
-        ProVC();
+        filename = "files/ProVC.txt";
         break;
     
-    default:
-        printf("INVALID CHOICE");
-        break;
     }
+    details(filename);
 
-    return 0;
+    
 }
