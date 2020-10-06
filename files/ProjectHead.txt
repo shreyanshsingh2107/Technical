@@ -24,23 +24,24 @@
      Cabin Number: C-444
      Contact Number: 837582884
      Email ID: tarunkumar@galgotiasuniversity.edu.in 
-     
-********************************************************************
 
+
+********************************************************************************************************
+                        
 4. BIG DATA: Ms. Kamakshi Gupta
-     GU ID : GUSCSE201931231
-     Contact Details:
-     Cabin Number: C-102
-     Contact Number: 9878980089
-     Email Id: kamakshigupta@galgotiasuniversity.edu.in
-
-********************************************************************
-
+   GU ID : GUSCSE201931231
+   Contact Details:
+   Cabin Number: C-102
+   Contact Number: 9878980089
+   Email Id: kamakshigupta@galgotiasuniversity.edu.in
+        
+ ********************************************************************************************************
+              
 5. IOT(Internet of Things): Ms. Anisha
-     GU ID : GUSCSE201871378
-     Contact Details:
-     Cabin Number: C-211
-     Contact Number: 8858980983
-     Email Id: anisha@galgotiasuniversity.edu.in
-
-********************************************************************
+   GU ID : GUSCSE201871378
+   Contact Details:
+   Cabin Number: C-211
+   Contact Number: 8858980983
+   Email Id: anisha@galgotiasuniversity.edu.in
+   
+********************************************************************************************************
