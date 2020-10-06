@@ -1,1 +1,71 @@
+********************************************************************
 
+1-School of Computing Science & Engineering
+  Dean name: Dr Munish Sabharwal
+  contact number:9215467890
+  email:munish@galgotiasuniversity.edu.in
+
+********************************************************************
+
+2-School of Electrical, Electronics & Communication Engineering
+  Dean name: Prof.(Dr). B Priestly Shan
+  contact number:9113254648
+  email:priestly@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+3-School of Civil Engineering
+  Dean name:Dr. Suprakash Biswas
+  contact number:8720462580
+  email:suprakash@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+4-School of Mechanical Engineering
+  Dean name:Dr Maniraj (Dean)
+  contact number:9971556246
+  email:maniraj@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+5-School of Business
+  Dean name:Dr. D.P Sahoo
+  contact number:9825467920
+  email:sahoo@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+6-School of Finance & Commerce
+  Dean name:Dr. Salim Shamsher
+  contact number:9119092048
+  email:salim@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+7-School of Basic & Applied Sciences
+  Dean name:Dr. Asheesh Kumar Gupta
+  contact number:8077924455
+  email:asheesh@galgotiasuniversity.edu.in
+  
+********************************************************************
+
+8-School of Architecture & Design
+  Dean name:Prof. Atul Setya
+  contact number:9918254672
+  email:atul@galgotiasuniversity.edu.in
+
+********************************************************************
+
+9-School of Law
+  Dean name:Prof. (Dr.) Azim Pathan
+  contact number:6825467215
+  email:azim@galgotiasuniversity.edu.in
+
+********************************************************************
+
+10-School of Nursing
+  Dean name:Prof. Ashia Qureshi
+  contact number:9825147652
+  email:ashia@galgotiasuniversity.edu.in
+
+********************************************************************

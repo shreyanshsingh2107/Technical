@@ -1,0 +1,41 @@
+********************************************************************
+
+1-Architectural project manager: Professor S. Kalidas
+  GU ID: GUSCSE172300
+  Cabin Number: A-203
+  Contact Number: 7452890568
+  Email id: s.kalidass@galgotiasuniversity.edu.in
+
+********************************************************************
+
+2-Construction project manager: Professor Shubham Kumar
+	GU ID:GUSCSE172498	
+	Cabin Number:C-309
+	Contact Number:9535424611
+	Email id:shubham_kumar@galgotiasuniversity.edu.in
+
+********************************************************************
+
+3-Engineering project manager: Professor Garima Pandey
+	GU ID:GUSCSE172303	
+	Cabin Number:A-301
+	Contact Number:
+	Email id:g.pandey_01@galgotiasuniversity.edu.in
+
+********************************************************************
+
+4-Insurance claim project manager: Professor Heena Khera
+	GU ID:GUSCSE172325	
+	Cabin Number:A-102
+	Contact Number:9549605367
+	Email id:heena_k.90@galgotiasuniversity.edu.in
+
+********************************************************************
+
+5-IT project Manager: Professor Arjun KP
+	GU ID:GUSCSE172577	
+	Cabin Number:C-333
+	Contact Number:8937762289
+	Email id:kp_arjun@galgotiasuniversity.edu.in
+  
+********************************************************************
