@@ -1,3 +1,5 @@
+********************************************************************
+
 1. WEB DEVELOPMENT: Mr. A. Daniel
      GU ID : GUSCSE201810265
      Contact Details: 
@@ -5,19 +7,25 @@
      Contact Number: 9842332125
      Email Id: adaniel@galgotiasuniversity.edu.in
 
+********************************************************************
+
 2. ARTIFICIAL INTELLIGENCE: Ms. Aanchal Vij
      GU ID : GUSCSE201933213
      Contact Details: 
      Cabin Number   : A-500
      Contact Number: 8873462740
      Email ID: aanchalvij@galgotiasuniversity.edu.in
- 
+
+********************************************************************
+
 3. CLOUD COMPUTING: Mr. Tarun Kumar
      GU ID : GUSCSE201942674 
      Contact Details: 
      Cabin Number: C-444
      Contact Number: 837582884
      Email ID: tarunkumar@galgotiasuniversity.edu.in 
+     
+********************************************************************
 
 4. BIG DATA: Ms. Kamakshi Gupta
      GU ID : GUSCSE201931231
@@ -26,9 +34,13 @@
      Contact Number: 9878980089
      Email Id: kamakshigupta@galgotiasuniversity.edu.in
 
+********************************************************************
+
 5. IOT(Internet of Things): Ms. Anisha
      GU ID : GUSCSE201871378
      Contact Details:
      Cabin Number: C-211
      Contact Number: 8858980983
      Email Id: anisha@galgotiasuniversity.edu.in
+
+********************************************************************
